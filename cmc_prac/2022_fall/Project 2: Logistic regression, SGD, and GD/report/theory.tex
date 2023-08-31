@@ -1,0 +1,76 @@
+\section{\huge Теоретическая часть}
+Рассмотрим задачу бинарной логистической регрессии. Пусть дана обучающая выборка
+$X=(x_i, y_i)_{i=1}^N$, где $x_i \in \mathbb{R}^D$, $ y_i \in \mathbb{Y}=\{ 1, -1\}$, 
+$\omega \in \mathbb{R}^D$~-- вектор весов.
+\begin{enumerate}
+	\item Функция потерь будет иметь следующий вид:
+		\[
+			Q(X, y, \omega)=\frac{1}{N}\sum_{i=1}^N\ln\bigl(1+\exp(-y_i\langle x_i, \omega\rangle)\bigr)\to \min_{\omega}
+		\]
+		Найдем дифференциал функции потерь по $\omega$:
+		\[
+			d_wQ(X, y, \omega)=-\frac{1}{N}\sum_{i=1}^N\frac{\exp(-y_i\langle x_i, \omega\rangle)y_ix_i^Td\omega}
+			{1 + \exp(-y_i\langle x_i, \omega\rangle)}
+		\]
+		$$
+			\Longrightarrow \bigtriangledown_wQ(X, y, \omega)=\Bigl\{ \sigma(z) = \frac{1}{ 1+ e^{-z} }\Bigr\}=
+			-\frac{1}{N}\sum_{i=1}^Nx_iy_i\sigma(-y_i\langle x_i, w\rangle),
+		$$
+		где $\sigma(z)$ - сигмоида
+	\item Рассмотрим задачу мультиноминальной логистической регрессии, т.е. 
+	$\mathbb{Y}=\{1,2,\dots,K\}$. Тогда функция потерь будет иметь следующий вид:
+	$$
+		Q(X, y, \omega)=-\frac{1}{N}\sum_{i=1}^N\ln\Bigl(\frac{\exp(\langle x_i, 
+		\omega_{y_i}\rangle)}{\sum_{k=1}^K\exp(\langle x_i, \omega_k\rangle)}\Bigr)
+		=
+	$$
+	$$
+		=\frac{1}{N} \sum_{i=1}^N\Biggl[\ln\Bigl(\sum_{k=1}^K\exp(\langle x_i, \omega_k\rangle)\Bigr)
+		- \langle x_i, \omega_{y_i}\rangle\Biggr] \to \min_{\omega_1,\omega2,\dots,\omega_K 
+		\in \mathbb{R}^{D}}
+	$$
+	Градиентом в данном случае будет матрица размера $D \times K$:
+	$$
+		dQ_{w_j}(X, y, \omega) = \frac{1}{N}\sum_{i=1}^N\Biggl[
+			\frac{\sum_{k=1}^K\exp(\langle x_i, \omega_k\rangle)d\langle 
+				x_i, \omega_k\rangle}{\sum_{k=1}^K\exp(\langle x_i, \omega_k\rangle)} -
+				d\langle x_i,\omega_{y_i}\rangle\Biggr] =
+	$$
+	$$
+		= \frac{1}{N}\sum_{i=1}^N\Biggl[
+			\frac{\exp(\langle x_i, \omega_j\rangle)
+				x_i^Td\omega_j}{\sum_{k=1}^K\exp(\langle x_i, \omega_k\rangle)} -
+				x_i^T[y_i=j]dw_j\Biggr]
+	$$
+	$$
+	\Longrightarrow \bigtriangledown_{w_j}Q(X, y, \omega) = 
+		\frac{1}{N}\sum_{i=1}^N\Biggl[
+			\frac{\exp(\langle x_i, \omega_j\rangle)
+				x_i}{\sum_{k=1}^K\exp(\langle x_i, \omega_k\rangle)} -
+				x_i[y_i=j]\Biggr]
+	$$
+	$\bigtriangledown_{w_j}Q(X, y, \omega)$ - это $j$-й столбец этой матрицы.
+
+	\item Покажем связь между бинарной логистической регрессией и мультиноминальной
+	 логистической регресии, а именно докажем, что бинарная логистическая регрессия 
+	 является частным случаем мультиноминальной.
+	 Действительно, для бинарной логистической регрессии:
+	$$
+	 	\mathbb{P}(y=1|x) = \sigma(\langle w, x\rangle)
+	$$
+	Для мальтиноминальной логистической регрессии при $K=2$:
+	$$
+	 	\mathbb{P}(y=1|x) = \frac{\exp(\langle\omega_1, x\rangle)}
+		{\exp(\langle\omega_1, x\rangle) + \exp(\langle\omega_{-1}, x\rangle)}=
+		\frac{1}{1 +  \exp(\langle\omega_{-1} - \omega_{1}, x\rangle)}=
+	$$ 
+	$$
+		= \sigma(\langle\omega_{1} - \omega_{-1}, x\rangle)
+	$$
+	Так как задача нахождения оптимального решения в случае бинарной 
+	и мультиноминальной логистической регрессии сводится к максимизации 
+	функции правдоподобия, а вероятности равны, если положить $\omega = \omega_1
+	- \omega_{-1}$, то отсюда следует эквивалентность данных методов при $K=2$.
+
+	
+\end{enumerate}
