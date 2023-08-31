@@ -1,0 +1,1211 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.1.24)  31 AUG 2023 14:39
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**main.tex
+(./main.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18>
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count179
+\c@section=\count180
+\c@subsection=\count181
+\c@subsubsection=\count182
+\c@paragraph=\count183
+\c@subparagraph=\count184
+\c@figure=\count185
+\c@table=\count186
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/cyrillic/t2aenc.def
+File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
+Now handling font encoding T2A ...
+... processing UTF-8 mapping file for font encoding T2A
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/t2aenc.dfu
+File: t2aenc.dfu 2019/11/14 v1.2k UTF-8 support for inputenc
+   defining Unicode char U+00A4 (decimal 164)
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0237 (decimal 567)
+   defining Unicode char U+0400 (decimal 1024)
+   defining Unicode char U+0401 (decimal 1025)
+   defining Unicode char U+0402 (decimal 1026)
+   defining Unicode char U+0403 (decimal 1027)
+   defining Unicode char U+0404 (decimal 1028)
+   defining Unicode char U+0405 (decimal 1029)
+   defining Unicode char U+0406 (decimal 1030)
+   defining Unicode char U+0407 (decimal 1031)
+   defining Unicode char U+0408 (decimal 1032)
+   defining Unicode char U+0409 (decimal 1033)
+   defining Unicode char U+040A (decimal 1034)
+   defining Unicode char U+040B (decimal 1035)
+   defining Unicode char U+040C (decimal 1036)
+   defining Unicode char U+040D (decimal 1037)
+   defining Unicode char U+040E (decimal 1038)
+   defining Unicode char U+040F (decimal 1039)
+   defining Unicode char U+0410 (decimal 1040)
+   defining Unicode char U+0411 (decimal 1041)
+   defining Unicode char U+0412 (decimal 1042)
+   defining Unicode char U+0413 (decimal 1043)
+   defining Unicode char U+0414 (decimal 1044)
+   defining Unicode char U+0415 (decimal 1045)
+   defining Unicode char U+0416 (decimal 1046)
+   defining Unicode char U+0417 (decimal 1047)
+   defining Unicode char U+0418 (decimal 1048)
+   defining Unicode char U+0419 (decimal 1049)
+   defining Unicode char U+041A (decimal 1050)
+   defining Unicode char U+041B (decimal 1051)
+   defining Unicode char U+041C (decimal 1052)
+   defining Unicode char U+041D (decimal 1053)
+   defining Unicode char U+041E (decimal 1054)
+   defining Unicode char U+041F (decimal 1055)
+   defining Unicode char U+0420 (decimal 1056)
+   defining Unicode char U+0421 (decimal 1057)
+   defining Unicode char U+0422 (decimal 1058)
+   defining Unicode char U+0423 (decimal 1059)
+   defining Unicode char U+0424 (decimal 1060)
+   defining Unicode char U+0425 (decimal 1061)
+   defining Unicode char U+0426 (decimal 1062)
+   defining Unicode char U+0427 (decimal 1063)
+   defining Unicode char U+0428 (decimal 1064)
+   defining Unicode char U+0429 (decimal 1065)
+   defining Unicode char U+042A (decimal 1066)
+   defining Unicode char U+042B (decimal 1067)
+   defining Unicode char U+042C (decimal 1068)
+   defining Unicode char U+042D (decimal 1069)
+   defining Unicode char U+042E (decimal 1070)
+   defining Unicode char U+042F (decimal 1071)
+   defining Unicode char U+0430 (decimal 1072)
+   defining Unicode char U+0431 (decimal 1073)
+   defining Unicode char U+0432 (decimal 1074)
+   defining Unicode char U+0433 (decimal 1075)
+   defining Unicode char U+0434 (decimal 1076)
+   defining Unicode char U+0435 (decimal 1077)
+   defining Unicode char U+0436 (decimal 1078)
+   defining Unicode char U+0437 (decimal 1079)
+   defining Unicode char U+0438 (decimal 1080)
+   defining Unicode char U+0439 (decimal 1081)
+   defining Unicode char U+043A (decimal 1082)
+   defining Unicode char U+043B (decimal 1083)
+   defining Unicode char U+043C (decimal 1084)
+   defining Unicode char U+043D (decimal 1085)
+   defining Unicode char U+043E (decimal 1086)
+   defining Unicode char U+043F (decimal 1087)
+   defining Unicode char U+0440 (decimal 1088)
+   defining Unicode char U+0441 (decimal 1089)
+   defining Unicode char U+0442 (decimal 1090)
+   defining Unicode char U+0443 (decimal 1091)
+   defining Unicode char U+0444 (decimal 1092)
+   defining Unicode char U+0445 (decimal 1093)
+   defining Unicode char U+0446 (decimal 1094)
+   defining Unicode char U+0447 (decimal 1095)
+   defining Unicode char U+0448 (decimal 1096)
+   defining Unicode char U+0449 (decimal 1097)
+   defining Unicode char U+044A (decimal 1098)
+   defining Unicode char U+044B (decimal 1099)
+   defining Unicode char U+044C (decimal 1100)
+   defining Unicode char U+044D (decimal 1101)
+   defining Unicode char U+044E (decimal 1102)
+   defining Unicode char U+044F (decimal 1103)
+   defining Unicode char U+0450 (decimal 1104)
+   defining Unicode char U+0451 (decimal 1105)
+   defining Unicode char U+0452 (decimal 1106)
+   defining Unicode char U+0453 (decimal 1107)
+   defining Unicode char U+0454 (decimal 1108)
+   defining Unicode char U+0455 (decimal 1109)
+   defining Unicode char U+0456 (decimal 1110)
+   defining Unicode char U+0457 (decimal 1111)
+   defining Unicode char U+0458 (decimal 1112)
+   defining Unicode char U+0459 (decimal 1113)
+   defining Unicode char U+045A (decimal 1114)
+   defining Unicode char U+045B (decimal 1115)
+   defining Unicode char U+045C (decimal 1116)
+   defining Unicode char U+045D (decimal 1117)
+   defining Unicode char U+045E (decimal 1118)
+   defining Unicode char U+045F (decimal 1119)
+   defining Unicode char U+0490 (decimal 1168)
+   defining Unicode char U+0491 (decimal 1169)
+   defining Unicode char U+0492 (decimal 1170)
+   defining Unicode char U+0493 (decimal 1171)
+   defining Unicode char U+0496 (decimal 1174)
+   defining Unicode char U+0497 (decimal 1175)
+   defining Unicode char U+0498 (decimal 1176)
+   defining Unicode char U+0499 (decimal 1177)
+   defining Unicode char U+049A (decimal 1178)
+   defining Unicode char U+049B (decimal 1179)
+   defining Unicode char U+049C (decimal 1180)
+   defining Unicode char U+049D (decimal 1181)
+   defining Unicode char U+04A0 (decimal 1184)
+   defining Unicode char U+04A1 (decimal 1185)
+   defining Unicode char U+04A2 (decimal 1186)
+   defining Unicode char U+04A3 (decimal 1187)
+   defining Unicode char U+04A4 (decimal 1188)
+   defining Unicode char U+04A5 (decimal 1189)
+   defining Unicode char U+04AA (decimal 1194)
+   defining Unicode char U+04AB (decimal 1195)
+   defining Unicode char U+04AE (decimal 1198)
+   defining Unicode char U+04AF (decimal 1199)
+   defining Unicode char U+04B0 (decimal 1200)
+   defining Unicode char U+04B1 (decimal 1201)
+   defining Unicode char U+04B2 (decimal 1202)
+   defining Unicode char U+04B3 (decimal 1203)
+   defining Unicode char U+04B6 (decimal 1206)
+   defining Unicode char U+04B7 (decimal 1207)
+   defining Unicode char U+04B8 (decimal 1208)
+   defining Unicode char U+04B9 (decimal 1209)
+   defining Unicode char U+04BA (decimal 1210)
+   defining Unicode char U+04BB (decimal 1211)
+   defining Unicode char U+04C0 (decimal 1216)
+   defining Unicode char U+04C1 (decimal 1217)
+   defining Unicode char U+04C2 (decimal 1218)
+   defining Unicode char U+04D0 (decimal 1232)
+   defining Unicode char U+04D1 (decimal 1233)
+   defining Unicode char U+04D2 (decimal 1234)
+   defining Unicode char U+04D3 (decimal 1235)
+   defining Unicode char U+04D4 (decimal 1236)
+   defining Unicode char U+04D5 (decimal 1237)
+   defining Unicode char U+04D6 (decimal 1238)
+   defining Unicode char U+04D7 (decimal 1239)
+   defining Unicode char U+04D8 (decimal 1240)
+   defining Unicode char U+04D9 (decimal 1241)
+   defining Unicode char U+04DA (decimal 1242)
+   defining Unicode char U+04DB (decimal 1243)
+   defining Unicode char U+04DC (decimal 1244)
+   defining Unicode char U+04DD (decimal 1245)
+   defining Unicode char U+04DE (decimal 1246)
+   defining Unicode char U+04DF (decimal 1247)
+   defining Unicode char U+04E2 (decimal 1250)
+   defining Unicode char U+04E3 (decimal 1251)
+   defining Unicode char U+04E4 (decimal 1252)
+   defining Unicode char U+04E5 (decimal 1253)
+   defining Unicode char U+04E6 (decimal 1254)
+   defining Unicode char U+04E7 (decimal 1255)
+   defining Unicode char U+04E8 (decimal 1256)
+   defining Unicode char U+04E9 (decimal 1257)
+   defining Unicode char U+04EC (decimal 1260)
+   defining Unicode char U+04ED (decimal 1261)
+   defining Unicode char U+04EE (decimal 1262)
+   defining Unicode char U+04EF (decimal 1263)
+   defining Unicode char U+04F0 (decimal 1264)
+   defining Unicode char U+04F1 (decimal 1265)
+   defining Unicode char U+04F2 (decimal 1266)
+   defining Unicode char U+04F3 (decimal 1267)
+   defining Unicode char U+04F4 (decimal 1268)
+   defining Unicode char U+04F5 (decimal 1269)
+   defining Unicode char U+04F8 (decimal 1272)
+   defining Unicode char U+04F9 (decimal 1273)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2116 (decimal 8470)
+   defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+2423 (decimal 9251)
+   defining Unicode char U+27E8 (decimal 10216)
+   defining Unicode char U+27E9 (decimal 10217)
+   defining Unicode char U+FB00 (decimal 64256)
+   defining Unicode char U+FB01 (decimal 64257)
+   defining Unicode char U+FB02 (decimal 64258)
+   defining Unicode char U+FB03 (decimal 64259)
+   defining Unicode char U+FB04 (decimal 64260)
+   defining Unicode char U+FB05 (decimal 64261)
+   defining Unicode char U+FB06 (decimal 64262)
+))
+LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 1
+12.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/cyrillic/t2acmr.fd
+File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2020/08/01 v1.3d Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2021/03/24 3.56 The Babel package
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2021/03/24 3.56 Babel common definitions
+\babel@savecnt=\count187
+\U@D=\dimen139
+\l@babelnohyphens=\language87
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count188
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: \l@canadian = using hyphenrules for english
+(babel)             (\language0) on input line 102.
+Package babel Info: \l@australian = using hyphenrules for ukenglish
+(babel)             (\language21) on input line 105.
+Package babel Info: \l@newzealand = using hyphenrules for ukenglish
+(babel)             (\language21) on input line 108.
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/babel-russian/russianb.ldf
+File: russianb.ldf 2021/01/10 1.3m Russian support for the Babel system
+Language: russian 2020/09/09 1.3k Russian support for the Babel system
+Package babel Info: Making " an active character on input line 124.
+Package babel Info: Default for \cyrdash is provided on input line 163.
+))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/09/23 v2.17i AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen140
+))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen141
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count189
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count190
+\leftroot@=\count191
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count192
+\DOTSCASE@=\count193
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box47
+\strutbox@=\box48
+\big@size=\dimen142
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count194
+\c@MaxMatrixCols=\count195
+\dotsspace@=\muskip16
+\c@parentequation=\count196
+\dspbrk@lvl=\count197
+\tag@help=\toks18
+\row@=\count198
+\column@=\count199
+\maxfields@=\count266
+\andhelp@=\toks19
+\eqnshift@=\dimen143
+\alignsep@=\dimen144
+\tagshift@=\dimen145
+\tagwidth@=\dimen146
+\totwidth@=\dimen147
+\lineht@=\dimen148
+\@envbody=\toks20
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2021-02-27 v7.00k Hypertext links for LaTeX
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks22
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+\@linkdim=\dimen149
+\Hy@linkcounter=\count267
+\Hy@pagecounter=\count268
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2021-02-27 v7.00k Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def
+File: hyperref-langpatches.def 2021-02-27 v7.00k Hyperref: patches for babel la
+nguages
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count269
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2021-02-27 v7.00k Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Option `unicode' set `true' on input line 3167.
+Package hyperref Info: Option `colorlinks' set `true' on input line 4073.
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4445.
+\c@Hy@tempcnt=\count270
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4804.
+\XeTeXLinkMargin=\dimen150
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count271
+\Field@Width=\dimen151
+\Fld@charsize=\dimen152
+Package hyperref Info: Hyper figures OFF on input line 6075.
+Package hyperref Info: Link nesting OFF on input line 6080.
+Package hyperref Info: Hyper index ON on input line 6083.
+Package hyperref Info: backreferencing OFF on input line 6090.
+Package hyperref Info: Link coloring ON on input line 6093.
+Package hyperref Info: Link coloring with OCG OFF on input line 6100.
+Package hyperref Info: PDF/A mode OFF on input line 6105.
+LaTeX Info: Redefining \ref on input line 6145.
+LaTeX Info: Redefining \pageref on input line 6149.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
+ge
+with kernel methods
+)
+\Hy@abspage=\count272
+\c@Item=\count273
+\c@Hfootnote=\count274
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2021-02-27 v7.00k Hyperref driver for pdfTeX
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
+e
+with kernel methods
+)
+\Fld@listcount=\count275
+\c@bookmark@seq@number=\count276
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip52
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+\Gin@req@height=\dimen153
+\Gin@req@width=\dimen154
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks23
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/extsizes/extsizes.sty
+Package: extsizes 1996/10/08 v1.0 Non Standard LaTeX Package
+
+
+Package ExtSizes Warning: It is better to use one of the extsizes classes,
+ if you can.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/extsizes/size14.clo
+File: size14.clo 1999/11/11 v1.4a NON-Standard LaTeX file (size option)
+))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
+\c@tracingmulticols=\count277
+\mult@box=\box49
+\multicol@leftmargin=\dimen155
+\c@unbalance=\count278
+\c@collectmore=\count279
+\doublecol@number=\count280
+\multicoltolerance=\count281
+\multicolpretolerance=\count282
+\full@width=\dimen156
+\page@free=\dimen157
+\premulticols=\dimen158
+\postmulticols=\dimen159
+\multicolsep=\skip53
+\multicolbaselineskip=\skip54
+\partial@page=\box50
+\last@line=\box51
+\maxbalancingoverflow=\dimen160
+\mult@rightbox=\box52
+\mult@grightbox=\box53
+\mult@gfirstbox=\box54
+\mult@firstbox=\box55
+\@tempa=\box56
+\@tempa=\box57
+\@tempa=\box58
+\@tempa=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\c@minrows=\count283
+\c@columnbadness=\count284
+\c@finalcolumnbadness=\count285
+\last@try=\dimen161
+\multicolovershoot=\dimen162
+\multicolundershoot=\dimen163
+\mult@nat@firstbox=\box93
+\colbreak@box=\box94
+\mc@col@check@num=\count286
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2020/10/07 v1.3j Sub-captions (AR)
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen164
+\captionmargin@=\dimen165
+\captionwidth=\dimen166
+\caption@tempdima=\dimen167
+\caption@indent=\dimen168
+\caption@parindent=\dimen169
+\caption@hangindent=\dimen170
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count287
+\c@continuedfloat=\count288
+Package caption Info: hyperref package is loaded.
+)
+\c@subfigure=\count289
+\c@subtable=\count290
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count291
+\l__pdf_internal_box=\box95
+)
+(./main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Info: Redefining \th on input line 31.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2020/02/24 v1.2b Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+Package hyperref Info: Link coloring ON on input line 31.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/gettitlestring/gettitlestring.s
+ty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count292
+)
+LaTeX Info: Redefining \ref on input line 31.
+LaTeX Info: Redefining \pageref on input line 31.
+LaTeX Info: Redefining \nameref on input line 31.
+ (./main.out) (./main.out)
+\@outlinefile=\write3
+\openout3 = `main.out'.
+
+
+(/usr/local/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count293
+\scratchdimen=\dimen171
+\scratchbox=\box96
+\nofMPsegments=\count294
+\nofMParguments=\count295
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count296
+\MPscratchDim=\dimen172
+\MPnumerator=\count297
+\makeMPintoPDFobject=\count298
+\everyMPtoPDFconversion=\toks25
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 51.
+
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 51.
+
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
+
+{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./intr
+o.tex)pdfTeX warning (ext4): destination with the same identifier (name{page.1}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.60 \newpage
+              [1] (./theory.tex [2]) (./exps_intro.tex
+Overfull \hbox (43.36748pt too wide) in paragraph at lines 14--15
+[]\T2A/cmr/m/n/14.4 Размер бат-ча(подвыборки для под-сче-та гра-ди-ен-та в SGD)
+[\T2A/cmr/m/sl/14.4 batch_size\T2A/cmr/m/n/14.4 ]: 10000 
+ []
+
+[3]) (./exp0.tex
+Underfull \hbox (badness 1917) in paragraph at lines 17--18
+\T2A/cmr/m/n/14.4 В хо-де экс-пе-ри-мен-та бы-ла по-лу-че-на сле-ду-ю-щая сред-
+няя ошиб-ка:
+ []
+
+[4]) (./exp1.tex
+\myimage=\box97
+<./experiment1/alpha/gd_loss__iters.pdf, id=193, 502.22443pt x 338.80202pt>
+File: ./experiment1/alpha/gd_loss__iters.pdf Graphic file (type pdf)
+<use ./experiment1/alpha/gd_loss__iters.pdf>
+Package pdftex.def Info: ./experiment1/alpha/gd_loss__iters.pdf  used on input 
+line 19.
+(pdftex.def)             Requested size: 227.62204pt x 153.55547pt.
+<./experiment1/alpha/gd_loss_time.pdf, id=194, 502.22443pt x 338.80202pt>
+File: ./experiment1/alpha/gd_loss_time.pdf Graphic file (type pdf)
+<use ./experiment1/alpha/gd_loss_time.pdf>
+Package pdftex.def Info: ./experiment1/alpha/gd_loss_time.pdf  used on input li
+ne 24.
+(pdftex.def)             Requested size: 227.62204pt x 153.55547pt.
+<./experiment1/alpha/gd_loss__iters_big_alphas.pdf, id=197, 497.11157pt x 336.9
+5172pt>
+File: ./experiment1/alpha/gd_loss__iters_big_alphas.pdf Graphic file (type pdf)
+
+<use ./experiment1/alpha/gd_loss__iters_big_alphas.pdf>
+Package pdftex.def Info: ./experiment1/alpha/gd_loss__iters_big_alphas.pdf  use
+d on input line 33.
+(pdftex.def)             Requested size: 364.19664pt x 246.86731pt.
+<./experiment1/alpha/gd_acc_iters.pdf, id=198, 502.22443pt x 333.85353pt>
+File: ./experiment1/alpha/gd_acc_iters.pdf Graphic file (type pdf)
+<use ./experiment1/alpha/gd_acc_iters.pdf>
+Package pdftex.def Info: ./experiment1/alpha/gd_acc_iters.pdf  used on input li
+ne 44.
+(pdftex.def)             Requested size: 227.62204pt x 151.31265pt.
+<./experiment1/alpha/gd_acc_time.pdf, id=199, 502.22443pt x 333.85353pt>
+File: ./experiment1/alpha/gd_acc_time.pdf Graphic file (type pdf)
+<use ./experiment1/alpha/gd_acc_time.pdf>
+Package pdftex.def Info: ./experiment1/alpha/gd_acc_time.pdf  used on input lin
+e 49.
+(pdftex.def)             Requested size: 227.62204pt x 151.31265pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[5] [6 <./experiment1/alpha/gd_loss__iters.pdf> <./experiment1/alpha/gd_loss_ti
+me.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./experiment1/alpha/gd_loss_
+time.pdf): PDF inclusion: multiple pdfs with page group included in a single pa
+ge
+> <./experiment1/alpha/gd_loss__iters_big_alphas.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./experiment1/alpha/gd_loss_
+_iters_big_alphas.pdf): PDF inclusion: multiple pdfs with page group included i
+n a single page
+>]
+<./experiment1/beta/gd_loss_time.pdf, id=306, 502.22443pt x 338.81647pt>
+File: ./experiment1/beta/gd_loss_time.pdf Graphic file (type pdf)
+<use ./experiment1/beta/gd_loss_time.pdf>
+Package pdftex.def Info: ./experiment1/beta/gd_loss_time.pdf  used on input lin
+e 63.
+(pdftex.def)             Requested size: 227.62204pt x 153.56201pt.
+<./experiment1/beta/gd_acc_time.pdf, id=307, 502.22443pt x 333.85353pt>
+File: ./experiment1/beta/gd_acc_time.pdf Graphic file (type pdf)
+<use ./experiment1/beta/gd_acc_time.pdf>
+Package pdftex.def Info: ./experiment1/beta/gd_acc_time.pdf  used on input line
+ 68.
+(pdftex.def)             Requested size: 227.62204pt x 151.31265pt.
+ [7 <./experiment1/alpha/gd_acc_iters.pdf> <./experiment1/alpha/gd_acc_time.pdf
+
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./experiment1/alpha/gd_acc_t
+ime.pdf): PDF inclusion: multiple pdfs with page group included in a single pag
+e
+> <./experiment1/beta/gd_loss_time.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./experiment1/beta/gd_loss_t
+ime.pdf): PDF inclusion: multiple pdfs with page group included in a single pag
+e
+> <./experiment1/beta/gd_acc_time.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./experiment1/beta/gd_acc_ti
+me.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+
+>]
+<./experiment1/w_0/gd_loss_iters.pdf, id=456, 502.71251pt x 333.85353pt>
+File: ./experiment1/w_0/gd_loss_iters.pdf Graphic file (type pdf)
+<use ./experiment1/w_0/gd_loss_iters.pdf>
+Package pdftex.def Info: ./experiment1/w_0/gd_loss_iters.pdf  used on input lin
+e 84.
+(pdftex.def)             Requested size: 364.19664pt x 241.87204pt.
+<./experiment1/w_0/gd_acc_iters.pdf, id=460, 497.59966pt x 333.85353pt>
+File: ./experiment1/w_0/gd_acc_iters.pdf Graphic file (type pdf)
+<use ./experiment1/w_0/gd_acc_iters.pdf>
+Package pdftex.def Info: ./experiment1/w_0/gd_acc_iters.pdf  used on input line
+ 99.
+(pdftex.def)             Requested size: 364.19664pt x 244.34781pt.
+ [8 <./experiment1/w_0/gd_loss_iters.pdf>]) (./exp2.tex [9 <./experiment1/w_0/g
+d_acc_iters.pdf>]
+<./experiment2/alpha/sgd_loss__iters.pdf, id=553, 502.22443pt x 338.665pt>
+File: ./experiment2/alpha/sgd_loss__iters.pdf Graphic file (type pdf)
+<use ./experiment2/alpha/sgd_loss__iters.pdf>
+Package pdftex.def Info: ./experiment2/alpha/sgd_loss__iters.pdf  used on input
+ line 14.
+(pdftex.def)             Requested size: 227.62204pt x 153.49336pt.
+<./experiment2/alpha/sgd_acc_time.pdf, id=554, 502.22443pt x 338.61166pt>
+File: ./experiment2/alpha/sgd_acc_time.pdf Graphic file (type pdf)
+<use ./experiment2/alpha/sgd_acc_time.pdf>
+Package pdftex.def Info: ./experiment2/alpha/sgd_acc_time.pdf  used on input li
+ne 19.
+(pdftex.def)             Requested size: 227.62204pt x 153.4692pt.
+<./experiment2/beta/sgd_loss__iters.pdf, id=558, 497.72322pt x 335.95961pt>
+File: ./experiment2/beta/sgd_loss__iters.pdf Graphic file (type pdf)
+<use ./experiment2/beta/sgd_loss__iters.pdf>
+Package pdftex.def Info: ./experiment2/beta/sgd_loss__iters.pdf  used on input 
+line 35.
+(pdftex.def)             Requested size: 227.62204pt x 153.64105pt.
+<./experiment2/beta/sgd_acc_time.pdf, id=559, 497.72322pt x 336.11267pt>
+File: ./experiment2/beta/sgd_acc_time.pdf Graphic file (type pdf)
+<use ./experiment2/beta/sgd_acc_time.pdf>
+Package pdftex.def Info: ./experiment2/beta/sgd_acc_time.pdf  used on input lin
+e 40.
+(pdftex.def)             Requested size: 227.62204pt x 153.71106pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[10 <./experiment2/alpha/sgd_loss__iters.pdf> <./experiment2/alpha/sgd_acc_time
+.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./experiment2/alpha/sgd_acc_
+time.pdf): PDF inclusion: multiple pdfs with page group included in a single pa
+ge
+>]
+Overfull \hbox (33.78487pt too wide) in paragraph at lines 47--49
+[]\T2A/cmr/m/n/14.4 Исследуем accuracy. Наи-луч-шим ока-зал-ся $\OML/cmm/m/it/1
+4.4 ^^L \OT1/cmr/m/n/14.4 = 0\OML/cmm/m/it/14.4 :\OT1/cmr/m/n/14.4 0347$ \T2A/c
+mr/m/n/14.4 ($\OML/cmm/m/it/14.4 accuracy \OT1/cmr/m/n/14.4 =  0\OML/cmm/m/it/1
+4.4 :\OT1/cmr/m/n/14.4 8141$\T2A/cmr/m/n/14.4 ),
+ []
+
+<./experiment2/w_0/sgd_loss_time.pdf, id=637, 498.85434pt x 331.90877pt>
+File: ./experiment2/w_0/sgd_loss_time.pdf Graphic file (type pdf)
+<use ./experiment2/w_0/sgd_loss_time.pdf>
+Package pdftex.def Info: ./experiment2/w_0/sgd_loss_time.pdf  used on input lin
+e 55.
+(pdftex.def)             Requested size: 318.66946pt x 212.02585pt.
+<./experiment2/w_0/sgd_acc_time.pdf, id=638, 494.38452pt x 331.90877pt>
+File: ./experiment2/w_0/sgd_acc_time.pdf Graphic file (type pdf)
+<use ./experiment2/w_0/sgd_acc_time.pdf>
+Package pdftex.def Info: ./experiment2/w_0/sgd_acc_time.pdf  used on input line
+ 63.
+(pdftex.def)             Requested size: 318.66946pt x 213.94023pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[11 <./experiment2/beta/sgd_loss__iters.pdf> <./experiment2/beta/sgd_acc_time.p
+df
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./experiment2/beta/sgd_acc_t
+ime.pdf): PDF inclusion: multiple pdfs with page group included in a single pag
+e
+> <./experiment2/w_0/sgd_loss_time.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./experiment2/w_0/sgd_loss_t
+ime.pdf): PDF inclusion: multiple pdfs with page group included in a single pag
+e
+>]
+<./experiment2/batch_size/sgd_loss_iters.pdf, id=752, 556.53294pt x 444.57129pt
+>
+File: ./experiment2/batch_size/sgd_loss_iters.pdf Graphic file (type pdf)
+<use ./experiment2/batch_size/sgd_loss_iters.pdf>
+Package pdftex.def Info: ./experiment2/batch_size/sgd_loss_iters.pdf  used on i
+nput line 76.
+(pdftex.def)             Requested size: 227.62204pt x 181.82768pt.
+<./experiment2/batch_size/sgd_acc_time.pdf, id=753, 556.53294pt x 441.03647pt>
+File: ./experiment2/batch_size/sgd_acc_time.pdf Graphic file (type pdf)
+<use ./experiment2/batch_size/sgd_acc_time.pdf>
+Package pdftex.def Info: ./experiment2/batch_size/sgd_acc_time.pdf  used on inp
+ut line 81.
+(pdftex.def)             Requested size: 227.62204pt x 180.38196pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[12 <./experiment2/w_0/sgd_acc_time.pdf>]) (./exp3.tex [13 <./experiment2/batch
+_size/sgd_loss_iters.pdf> <./experiment2/batch_size/sgd_acc_time.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./experiment2/batch_size/sgd
+_acc_time.pdf): PDF inclusion: multiple pdfs with page group included in a sing
+le page
+>]
+<./experiment3/loss_time.pdf, id=881, 356.82684pt x 335.95988pt>
+File: ./experiment3/loss_time.pdf Graphic file (type pdf)
+<use ./experiment3/loss_time.pdf>
+Package pdftex.def Info: ./experiment3/loss_time.pdf  used on input line 26.
+(pdftex.def)             Requested size: 227.62204pt x 214.31639pt.
+<./experiment3/acc_time.pdf, id=882, 356.82684pt x 336.31944pt>
+File: ./experiment3/acc_time.pdf Graphic file (type pdf)
+<use ./experiment3/acc_time.pdf>
+Package pdftex.def Info: ./experiment3/acc_time.pdf  used on input line 31.
+(pdftex.def)             Requested size: 227.62204pt x 214.54576pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--48
+
+ []
+
+[14 <./experiment3/loss_time.pdf> <./experiment3/acc_time.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./experiment3/acc_time.pdf):
+ PDF inclusion: multiple pdfs with page group included in a single page
+>]) (./exp4.tex
+Underfull \hbox (badness 10000) in paragraph at lines 28--41
+
+ []
+
+[15]) (./exp5.tex
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
+
+ []
+
+[16]
+Underfull \hbox (badness 10000) in paragraph at lines 29--44
+
+ []
+
+
+Overfull \hbox (42.6483pt too wide) in paragraph at lines 29--44
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--44
+
+ []
+
+[17]
+Underfull \hbox (badness 10000) in paragraph at lines 52--53
+
+ []
+
+<./experiment5/mindf_time.pdf, id=982, 343.41737pt x 332.41064pt>
+File: ./experiment5/mindf_time.pdf Graphic file (type pdf)
+<use ./experiment5/mindf_time.pdf>
+Package pdftex.def Info: ./experiment5/mindf_time.pdf  used on input line 57.
+(pdftex.def)             Requested size: 204.85844pt x 198.29652pt.
+<./experiment5/mindf_acc.pdf, id=983, 380.64395pt x 333.38303pt>
+File: ./experiment5/mindf_acc.pdf Graphic file (type pdf)
+<use ./experiment5/mindf_acc.pdf>
+Package pdftex.def Info: ./experiment5/mindf_acc.pdf  used on input line 62.
+(pdftex.def)             Requested size: 227.62204pt x 199.35986pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--71
+
+ []
+
+[18 <./experiment5/mindf_time.pdf> <./experiment5/mindf_acc.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./experiment5/mindf_acc.pdf)
+: PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<./experiment5/maxdf_time.pdf, id=1059, 343.41737pt x 332.41064pt>
+File: ./experiment5/maxdf_time.pdf Graphic file (type pdf)
+<use ./experiment5/maxdf_time.pdf>
+Package pdftex.def Info: ./experiment5/maxdf_time.pdf  used on input line 76.
+(pdftex.def)             Requested size: 204.85844pt x 198.29652pt.
+<./experiment5/maxdf_acc.pdf, id=1060, 387.6702pt x 332.41064pt>
+File: ./experiment5/maxdf_acc.pdf Graphic file (type pdf)
+<use ./experiment5/maxdf_acc.pdf>
+Package pdftex.def Info: ./experiment5/maxdf_acc.pdf  used on input line 81.
+(pdftex.def)             Requested size: 227.62204pt x 195.18222pt.
+
+Overfull \hbox (3.04219pt too wide) in paragraph at lines 74--84
+[]$[]$ $[]$ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--115
+
+ []
+
+[19 <./experiment5/maxdf_time.pdf> <./experiment5/maxdf_acc.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./experiment5/maxdf_acc.pdf)
+: PDF inclusion: multiple pdfs with page group included in a single page
+>]
+Overfull \hbox (13.97522pt too wide) in paragraph at lines 118--119
+[]\T2A/cmr/m/n/14.4 Из расмот-рен-ных па-ра-мет-ров наи-луч-ши-ми яв-ля-ют-ся $
+\OML/cmm/m/it/14.4 min[]df \OT1/cmr/m/n/14.4 =  0\OML/cmm/m/it/14.4 :\OT1/cmr/m
+/n/14.4 0001$
+ []
+
+) (./exp6.tex [20]
+<conf_m.pdf, id=1142, 391.58055pt x 336.11133pt>
+File: conf_m.pdf Graphic file (type pdf)
+<use conf_m.pdf>
+Package pdftex.def Info: conf_m.pdf  used on input line 21.
+(pdftex.def)             Requested size: 318.66946pt x 273.53595pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--27
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--29
+
+ []
+
+[21 <./conf_m.pdf>]) (./concl.tex [22]) [23]
+<./experiment1/beta/gd_loss__iters.pdf, id=1201, 502.22443pt x 338.81647pt>
+File: ./experiment1/beta/gd_loss__iters.pdf Graphic file (type pdf)
+<use ./experiment1/beta/gd_loss__iters.pdf>
+Package pdftex.def Info: ./experiment1/beta/gd_loss__iters.pdf  used on input l
+ine 75.
+(pdftex.def)             Requested size: 227.62204pt x 153.56201pt.
+<./experiment1/beta/gd_acc_iters.pdf, id=1202, 502.22443pt x 333.85353pt>
+File: ./experiment1/beta/gd_acc_iters.pdf Graphic file (type pdf)
+<use ./experiment1/beta/gd_acc_iters.pdf>
+Package pdftex.def Info: ./experiment1/beta/gd_acc_iters.pdf  used on input lin
+e 76.
+(pdftex.def)             Requested size: 227.62204pt x 151.31265pt.
+<./experiment1/w_0/gd_acc_time.pdf, id=1203, 497.59966pt x 333.85353pt>
+File: ./experiment1/w_0/gd_acc_time.pdf Graphic file (type pdf)
+<use ./experiment1/w_0/gd_acc_time.pdf>
+Package pdftex.def Info: ./experiment1/w_0/gd_acc_time.pdf  used on input line 
+77.
+(pdftex.def)             Requested size: 227.62204pt x 152.71866pt.
+<./experiment1/w_0/gd_loss_time.pdf, id=1204, 502.71251pt x 333.85353pt>
+File: ./experiment1/w_0/gd_loss_time.pdf Graphic file (type pdf)
+<use ./experiment1/w_0/gd_loss_time.pdf>
+Package pdftex.def Info: ./experiment1/w_0/gd_loss_time.pdf  used on input line
+ 83.
+(pdftex.def)             Requested size: 227.62204pt x 151.16493pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[24 <./experiment1/beta/gd_loss__iters.pdf> <./experiment1/beta/gd_acc_iters.pd
+f
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./experiment1/beta/gd_acc_it
+ers.pdf): PDF inclusion: multiple pdfs with page group included in a single pag
+e
+> <./experiment1/w_0/gd_acc_time.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./experiment1/w_0/gd_acc_tim
+e.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<./experiment2/alpha/sgd_loss_time.pdf, id=1318, 502.22443pt x 338.665pt>
+File: ./experiment2/alpha/sgd_loss_time.pdf Graphic file (type pdf)
+<use ./experiment2/alpha/sgd_loss_time.pdf>
+Package pdftex.def Info: ./experiment2/alpha/sgd_loss_time.pdf  used on input l
+ine 90.
+(pdftex.def)             Requested size: 227.62204pt x 153.49336pt.
+<./experiment2/alpha/sgd_acc_iters.pdf, id=1319, 502.22443pt x 338.61166pt>
+File: ./experiment2/alpha/sgd_acc_iters.pdf Graphic file (type pdf)
+<use ./experiment2/alpha/sgd_acc_iters.pdf>
+Package pdftex.def Info: ./experiment2/alpha/sgd_acc_iters.pdf  used on input l
+ine 91.
+(pdftex.def)             Requested size: 227.62204pt x 153.4692pt.
+<./experiment2/beta/sgd_loss_time.pdf, id=1320, 497.72322pt x 335.95961pt>
+File: ./experiment2/beta/sgd_loss_time.pdf Graphic file (type pdf)
+<use ./experiment2/beta/sgd_loss_time.pdf>
+Package pdftex.def Info: ./experiment2/beta/sgd_loss_time.pdf  used on input li
+ne 96.
+(pdftex.def)             Requested size: 227.62204pt x 153.64105pt.
+<./experiment2/beta/sgd_acc_iters.pdf, id=1321, 497.72322pt x 336.11267pt>
+File: ./experiment2/beta/sgd_acc_iters.pdf Graphic file (type pdf)
+<use ./experiment2/beta/sgd_acc_iters.pdf>
+Package pdftex.def Info: ./experiment2/beta/sgd_acc_iters.pdf  used on input li
+ne 97.
+(pdftex.def)             Requested size: 227.62204pt x 153.71106pt.
+<./experiment2/w_0/sgd_loss_iters.pdf, id=1322, 498.85434pt x 331.90877pt>
+File: ./experiment2/w_0/sgd_loss_iters.pdf Graphic file (type pdf)
+<use ./experiment2/w_0/sgd_loss_iters.pdf>
+Package pdftex.def Info: ./experiment2/w_0/sgd_loss_iters.pdf  used on input li
+ne 98.
+(pdftex.def)             Requested size: 227.62204pt x 151.4492pt.
+<./experiment2/w_0/sgd_acc_iters.pdf, id=1323, 494.38452pt x 331.90877pt>
+File: ./experiment2/w_0/sgd_acc_iters.pdf Graphic file (type pdf)
+<use ./experiment2/w_0/sgd_acc_iters.pdf>
+Package pdftex.def Info: ./experiment2/w_0/sgd_acc_iters.pdf  used on input lin
+e 99.
+(pdftex.def)             Requested size: 227.62204pt x 152.81662pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<./experiment2/alpha/sgd_loss__iters_big_alphas.pdf, id=1324, 497.11157pt x 333
+.85353pt>
+File: ./experiment2/alpha/sgd_loss__iters_big_alphas.pdf Graphic file (type pdf
+)
+<use ./experiment2/alpha/sgd_loss__iters_big_alphas.pdf>
+Package pdftex.def Info: ./experiment2/alpha/sgd_loss__iters_big_alphas.pdf  us
+ed on input line 105.
+(pdftex.def)             Requested size: 227.62204pt x 152.8664pt.
+<./experiment2/batch_size/sgd_loss_time.pdf, id=1325, 556.53294pt x 444.57129pt
+>
+File: ./experiment2/batch_size/sgd_loss_time.pdf Graphic file (type pdf)
+<use ./experiment2/batch_size/sgd_loss_time.pdf>
+Package pdftex.def Info: ./experiment2/batch_size/sgd_loss_time.pdf  used on in
+put line 106.
+(pdftex.def)             Requested size: 227.62204pt x 181.82768pt.
+<./experiment2/batch_size/sgd_acc_iters.pdf, id=1326, 556.53294pt x 441.03647pt
+>
+File: ./experiment2/batch_size/sgd_acc_iters.pdf Graphic file (type pdf)
+<use ./experiment2/batch_size/sgd_acc_iters.pdf>
+Package pdftex.def Info: ./experiment2/batch_size/sgd_acc_iters.pdf  used on in
+put line 107.
+(pdftex.def)             Requested size: 227.62204pt x 180.38196pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[25 <./experiment1/w_0/gd_loss_time.pdf> <./experiment2/alpha/sgd_loss_time.pdf
+
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./experiment2/alpha/sgd_loss
+_time.pdf): PDF inclusion: multiple pdfs with page group included in a single p
+age
+> <./experiment2/alpha/sgd_acc_iters.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./experiment2/alpha/sgd_acc_
+iters.pdf): PDF inclusion: multiple pdfs with page group included in a single p
+age
+>] [26 <./experiment2/beta/sgd_loss_time.pdf> <./experiment2/beta/sgd_acc_iters
+.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./experiment2/beta/sgd_acc_i
+ters.pdf): PDF inclusion: multiple pdfs with page group included in a single pa
+ge
+> <./experiment2/w_0/sgd_loss_iters.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./experiment2/w_0/sgd_loss_i
+ters.pdf): PDF inclusion: multiple pdfs with page group included in a single pa
+ge
+> <./experiment2/w_0/sgd_acc_iters.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./experiment2/w_0/sgd_acc_it
+ers.pdf): PDF inclusion: multiple pdfs with page group included in a single pag
+e
+>] [27 <./experiment2/alpha/sgd_loss__iters_big_alphas.pdf> <./experiment2/batc
+h_size/sgd_loss_time.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./experiment2/batch_size/sgd
+_loss_time.pdf): PDF inclusion: multiple pdfs with page group included in a sin
+gle page
+> <./experiment2/batch_size/sgd_acc_iters.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./experiment2/batch_size/sgd
+_acc_iters.pdf): PDF inclusion: multiple pdfs with page group included in a sin
+gle page
+>] (./main.aux)
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 1340B5311D9932C5E351FACC0C911D7A;9903.
+ ) 
+Here is how much of TeX's memory you used:
+ 12598 strings out of 478994
+ 190650 string characters out of 5858184
+ 497137 words of memory out of 5000000
+ 29712 multiletter control sequences out of 15000+600000
+ 420177 words of font info for 58 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 71i,10n,77p,1292b,584s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc
+}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}
+</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><
+/usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></
+usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></u
+sr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr
+/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/l
+ocal/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/loc
+al/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/
+texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/t
+exlive/2021/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/loc
+al/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr
+/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/l
+ocal/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/loc
+al/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local
+/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb></usr/local/t
+exlive/2021/texmf-dist/fonts/type1/public/cm-super/sfbx2986.pfb></usr/local/tex
+live/2021/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb></usr/local/texli
+ve/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive
+/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2
+021/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/202
+1/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/local/texlive/2021/
+texmf-dist/fonts/type1/public/cm-super/sfsl1440.pfb></usr/local/texlive/2021/te
+xmf-dist/fonts/type1/public/cm-super/sfti1000.pfb></usr/local/texlive/2021/texm
+f-dist/fonts/type1/public/cm-super/sfti1440.pfb>
+Output written on main.pdf (28 pages, 832164 bytes).
+PDF statistics:
+ 1790 PDF objects out of 2073 (max. 8388607)
+ 771 compressed objects within 8 object streams
+ 133 named destinations out of 1000 (max. 500000)
+ 458 words of extra memory for PDF output out of 10000 (max. 10000000)
+
